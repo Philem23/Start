@@ -13,7 +13,7 @@ A basic command-line calculator written in Python that can perform simple arithm
 
 ## 🛠️ Requirements
 
-- Python 3.x
+- Python 3
 
 ## 📦 How to Run
 
