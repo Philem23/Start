@@ -1,11 +1,25 @@
-This is the second Repository
+# 🧮 Simple Python Calculator
 
-It is for giving updates on the learning progress
+A basic command-line calculator written in Python that can perform simple arithmetic operations like addition, subtraction, multiplication, and division.
 
-It won't contain much meaninful content
+## 🚀 Features
 
-SO don't bother reading it
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Input validation
+- Simple and easy-to-use interface
 
-Oops you ended up reading it i should i have put this at the beginning 
+## 🛠️ Requirements
 
-My bad
+- Python 3.x
+
+## 📦 How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Philem23/Start.git
+cd Start
+
