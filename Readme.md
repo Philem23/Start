@@ -8,7 +8,6 @@ A basic command-line calculator written in Python that can perform simple arithm
 - Subtraction
 - Multiplication
 - Division
-- Input validation
 - Simple and easy-to-use interface
 
 ## 🛠️ Requirements
